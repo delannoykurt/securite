@@ -7,8 +7,19 @@ Commençons par lister les différentes étapes pour créer une application ou s
 - Comprendre les besoins du client
 - Concevoir et modéliser une base de données
 - Programmation du back-end
-- Programmation du front-end
+- Programmation du front-end ... et bien d'autre etapes
 
+##### pour ce qui est de mettre en place une strategie de securite il nous faut respecter certaines etapes:
+
+
+![strategie](http://www.weliom.fr/wp-content/uploads/2019/01/SSI-securite.jpg)
+#### Le cycle de developpement
+
+![cycle](https://www.icube-sa.ch/wp-content/uploads/2020/12/Roue.png)
+
+Il tres important de se mettre en place **des le debut de la conception** de l'application les securites necessaire et adapter pour reduire ... 
+Et de faire sa tout au long du processus de developpement de l'application
+___
 # Comprendre les besoins du client
 ![besoinclient](https://www.eni-ecole.fr/wp-content/uploads/2021/04/illus_dmn.png)
 
@@ -18,13 +29,13 @@ Commençons par lister les différentes étapes pour créer une application ou s
 
 # L’analyse
 
-- Analyser et prendre en compte les besoins de sécurité et le contexte des menaces
+- Analyser et prendre en compte **les besoins de sécurité** et le contexte des menaces
 - Contribuer à la définition des spécifications générales de la solution de sécurité
-- Réaliser l’analyse technique et l’étude détaillée de la solution de sécurité
+- Réaliser l’analyse **technique** et l’étude **détaillée** de la solution de sécurité
 
 # Le développement
 - Planifier et conduire les différents projets de développement de solutions de sécurité
-- Assurer le développement de solutions de sécurité
+- Assurer le développement de solutions de sécurité tout au long du cycle de developpement
 
 # La qualification
 - Réaliser des tests afin de s’assurer que les solutions de sécurité répondent bien aux exigences de protection ou de détection
@@ -34,4 +45,4 @@ Commençons par lister les différentes étapes pour créer une application ou s
 - Assurer la maintenance corrective et la maintenance évolutive des solutions de sécurité
 
 
-
+test git
