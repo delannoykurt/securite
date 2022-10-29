@@ -44,5 +44,3 @@ ___
 # La maintenance
 - Assurer la maintenance corrective et la maintenance évolutive des solutions de sécurité
 
-
-test git
